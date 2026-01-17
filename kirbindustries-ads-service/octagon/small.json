@@ -11,7 +11,7 @@
         {
             "id": "polygol_feedback",
             "name": "Feedback",
-            "description": "Let us know about your experience with Polygol",
+            "description": "Tell us about your experience",
             "icon": "thumbs_up_down",
             "image": "https://polygol.github.io/assets/appicon/airy.png",
             "url": "https://docs.google.com/forms/d/e/1FAIpQLSeSYSJalaX0HCZe0helcK5NCuc0U47tQc6KaO1OAsBs5HxK1A/viewform"
