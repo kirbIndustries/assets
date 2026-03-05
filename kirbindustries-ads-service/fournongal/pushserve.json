@@ -1,1 +1,63 @@
-
+{
+    "messages": [
+        {
+            "id": "waves-feedback",
+            "title": "How was your Waves connection?",
+            "message": "Please send feedback using the 'Feedback' application.",
+            "icon": "rate_review",
+            "triggerEvent": "waves-session",
+            "triggerDelay": 1000,
+        },
+        {
+            "id": "wallpaper-feedback",
+            "title": "How is the wallpaper?",
+            "message": "Please send feedback using the 'Feedback' application.",
+            "icon": "rate_review",
+            "triggerEvent": "wallpaper-preset",
+            "triggerDelay": 1000,
+        },
+        {
+            "id": "test-evil-good",
+            "title": "I'm good",
+            "message": "Tap me and I unleash my inner sushi power 😇",
+            "appicon": "https://polygol.github.io/assets/appicon/system.png",
+            "icon": "sentiment_excited",
+            "chance": 0.1,
+            "button": "Ok",
+            "customFunction": "minimizeFullscreenEmbed"
+        },
+        {
+            "id": "test-evil-bad",
+            "title": "I'm bad",
+            "message": "Tap me and I unleash my inner alpha 🥵",
+            "appicon": "https://polygol.github.io/assets/appicon/system.png",
+            "icon": "sentiment_extremely_dissatisfied",
+            "chance": 0.1,
+            "button": "Ok",
+            "customFunction": "minimizeFullscreenEmbed"
+        },
+        {
+            "id": "random-tip-variant",
+            "title": "Tips",
+            "message": "Did you know you can long press the home screen to switch wallpapers?",
+            "appName": "Tips",
+            "appicon": "https://polygol.github.io/assets/appicon/tips.png",
+            "icon": "lightbulb",
+            "chance": 0.2,
+            "variants": [
+                {
+                    "message": "Try swiping left or right on the bottom navigation pill to switch applications."
+                },
+                {
+                    "message": "Swipe down from the home screen to open Donburi dashboard."
+                },
+                {
+                    "message": "Did you know you can connect your phone to this device? Open Settings > Connections to get started."
+                },
+                {
+                    "message": "You can triple-tap a wallpaper dot to delete it from your history."
+                }
+            ]
+        }
+    ]
+}
