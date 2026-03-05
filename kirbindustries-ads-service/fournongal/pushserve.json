@@ -6,7 +6,7 @@
             "message": "Please send feedback using the 'Feedback' application.",
             "icon": "rate_review",
             "triggerEvent": "waves-session",
-            "triggerDelay": 1000,
+            "triggerDelay": 1000
         },
         {
             "id": "wallpaper-feedback",
@@ -14,7 +14,7 @@
             "message": "Please send feedback using the 'Feedback' application.",
             "icon": "rate_review",
             "triggerEvent": "wallpaper-preset",
-            "triggerDelay": 1000,
+            "triggerDelay": 1000
         },
         {
             "id": "test-evil-good",
