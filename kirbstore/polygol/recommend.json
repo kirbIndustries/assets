@@ -171,6 +171,190 @@
                     }
                 ]
             }
+        },
+        {
+            "startDate": "2026-06-01T00:00:00Z",
+            "endDate": "2026-06-15T23:59:59Z",
+            "recommendations": {
+                "homeFeatured": [
+                    {
+                        "appId": "weather",
+                        "tagline": "Summer is here",
+                        "color": "#ff9800"
+                    },
+                    {
+                        "appId": "clapper",
+                        "tagline": "Movie Night",
+                        "color": "#e91e63"
+                    }
+                ],
+                "editorsPicks": [
+                    "sketchpad",
+                    "moments",
+                    "camera",
+                    "streams"
+                ],
+                "stories": [
+                    {
+                        "title": "Summer Vibes",
+                        "subtitle": "Outdoor essentials",
+                        "apps": [
+                            "weather",
+                            "camera",
+                            "moments"
+                        ],
+                        "color": "#f44336"
+                    },
+                    {
+                        "title": "Evening Chill",
+                        "subtitle": "Wind down with media",
+                        "apps": [
+                            "clapper",
+                            "music",
+                            "streams"
+                        ],
+                        "color": "#3f51b5"
+                    }
+                ]
+            }
+        },
+        {
+            "startDate": "2026-06-16T00:00:00Z",
+            "endDate": "2026-06-30T23:59:59Z",
+            "recommendations": {
+                "homeFeatured": [
+                    {
+                        "appId": "invitations",
+                        "tagline": "Plan Your Party",
+                        "color": "#ffc107"
+                    },
+                    {
+                        "appId": "messages",
+                        "tagline": "Group Chatting",
+                        "color": "#4caf50"
+                    }
+                ],
+                "editorsPicks": [
+                    "widgizier",
+                    "livespace",
+                    "chronos",
+                    "fantaskical"
+                ],
+                "stories": [
+                    {
+                        "title": "Social Season",
+                        "subtitle": "Host the best events",
+                        "apps": [
+                            "invitations",
+                            "messages",
+                            "camera"
+                        ],
+                        "color": "#00bcd4"
+                    },
+                    {
+                        "title": "Productivity Sprint",
+                        "subtitle": "Clear your backlog",
+                        "apps": [
+                            "fantaskical",
+                            "chronos",
+                            "wordy"
+                        ],
+                        "color": "#607d8b"
+                    }
+                ]
+            }
+        },
+        {
+            "startDate": "2026-07-01T00:00:00Z",
+            "endDate": "2026-07-15T23:59:59Z",
+            "recommendations": {
+                "homeFeatured": [
+                    {
+                        "appId": "terminal",
+                        "tagline": "Hack the Heat",
+                        "color": "#212121"
+                    },
+                    {
+                        "appId": "widgizier",
+                        "tagline": "Widget Master",
+                        "color": "#673ab7"
+                    }
+                ],
+                "editorsPicks": [
+                    "ailuator",
+                    "wordy",
+                    "wellbeing",
+                    "hearmience"
+                ],
+                "stories": [
+                    {
+                        "title": "Power User Month",
+                        "subtitle": "Unlock your potential",
+                        "apps": [
+                            "terminal",
+                            "ailuator",
+                            "widgizier"
+                        ],
+                        "color": "#009688"
+                    },
+                    {
+                        "title": "Mindful Refresh",
+                        "subtitle": "Stay cool and calm",
+                        "apps": [
+                            "wellbeing",
+                            "hearmience",
+                            "weather"
+                        ],
+                        "color": "#8bc34a"
+                    }
+                ]
+            }
+        },
+        {
+            "startDate": "2026-07-16T00:00:00Z",
+            "endDate": "2026-07-31T23:59:59Z",
+            "recommendations": {
+                "homeFeatured": [
+                    {
+                        "appId": "music",
+                        "tagline": "Summer Anthems",
+                        "color": "#f44336"
+                    },
+                    {
+                        "appId": "livespace",
+                        "tagline": "Redesign Your View",
+                        "color": "#9e9e9e"
+                    }
+                ],
+                "editorsPicks": [
+                    "clapper",
+                    "camera",
+                    "sketchpad",
+                    "chronos"
+                ],
+                "stories": [
+                    {
+                        "title": "Artistic Expression",
+                        "subtitle": "Sketch and shoot",
+                        "apps": [
+                            "sketchpad",
+                            "camera",
+                            "moments"
+                        ],
+                        "color": "#ff5722"
+                    },
+                    {
+                        "title": "Travel Buddy",
+                        "subtitle": "Keep time and track",
+                        "apps": [
+                            "chronos",
+                            "weather",
+                            "messages"
+                        ],
+                        "color": "#03a9f4"
+                    }
+                ]
+            }
         }
     ]
 }
