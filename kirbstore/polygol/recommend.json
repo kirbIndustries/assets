@@ -1,0 +1,176 @@
+{
+    "default": {
+        "homeFeatured": [
+            {
+                "appId": "wellbeing",
+                "tagline": "Editor's Choice",
+                "color": "#4caf50"
+            },
+            {
+                "appId": "weather",
+                "tagline": "Essential",
+                "color": "#2196f3"
+            }
+        ],
+        "editorsPicks": [
+            "chronos",
+            "wordy",
+            "music",
+            "sketchpad"
+        ],
+        "stories": [
+            {
+                "title": "Boost Productivity",
+                "subtitle": "Get things done",
+                "apps": [
+                    "chronos",
+                    "wordy",
+                    "ailuator",
+                    "fantaskical"
+                ],
+                "color": "#9c27b0"
+            }
+        ]
+    },
+    "schedules": [
+        {
+            "startDate": "2026-04-01T00:00:00Z",
+            "endDate": "2026-04-15T23:59:59Z",
+            "recommendations": {
+                "homeFeatured": [
+                    {
+                        "appId": "wellbeing",
+                        "tagline": "App of the Week",
+                        "color": "#2e7d32"
+                    },
+                    {
+                        "appId": "streams",
+                        "tagline": "New Update",
+                        "color": "#d84315"
+                    }
+                ],
+                "editorsPicks": [
+                    "moments",
+                    "music",
+                    "clapper",
+                    "camera"
+                ],
+                "stories": [
+                    {
+                        "title": "Creative Studio",
+                        "subtitle": "Unleash your imagination",
+                        "apps": [
+                            "sketchpad",
+                            "camera",
+                            "clapper",
+                            "moments"
+                        ],
+                        "color": "#c2185b"
+                    },
+                    {
+                        "title": "Everyday Utilities",
+                        "subtitle": "Tools you need",
+                        "apps": [
+                            "weather",
+                            "ailuator",
+                            "chronos"
+                        ],
+                        "color": "#1976d2"
+                    }
+                ]
+            }
+        },
+        {
+            "startDate": "2026-04-16T00:00:00Z",
+            "endDate": "2026-04-30T23:59:59Z",
+            "recommendations": {
+                "homeFeatured": [
+                    {
+                        "appId": "hearmience",
+                        "tagline": "Relax & Focus",
+                        "color": "#00838f"
+                    },
+                    {
+                        "appId": "livespace",
+                        "tagline": "Customize Your Space",
+                        "color": "#6a1b9a"
+                    }
+                ],
+                "editorsPicks": [
+                    "sketchpad",
+                    "fantaskical",
+                    "widgizier",
+                    "wordy"
+                ],
+                "stories": [
+                    {
+                        "title": "Stay Connected",
+                        "subtitle": "Socializing made easy",
+                        "apps": [
+                            "messages",
+                            "invitations",
+                            "camera"
+                        ],
+                        "color": "#0277bd"
+                    },
+                    {
+                        "title": "Organize Your Life",
+                        "subtitle": "Top picks for you",
+                        "apps": [
+                            "fantaskical",
+                            "livespace",
+                            "widgizier"
+                        ],
+                        "color": "#ef6c00"
+                    }
+                ]
+            }
+        },
+        {
+            "startDate": "2026-05-01T00:00:00Z",
+            "endDate": "2026-05-31T23:59:59Z",
+            "recommendations": {
+                "homeFeatured": [
+                    {
+                        "appId": "terminal",
+                        "tagline": "For Developers",
+                        "color": "#37474f"
+                    },
+                    {
+                        "appId": "camera",
+                        "tagline": "Capture May",
+                        "color": "#fbc02d"
+                    }
+                ],
+                "editorsPicks": [
+                    "wordy",
+                    "chronos",
+                    "messages",
+                    "music"
+                ],
+                "stories": [
+                    {
+                        "title": "Developer Essentials",
+                        "subtitle": "Code & Calculate",
+                        "apps": [
+                            "terminal",
+                            "ailuator",
+                            "wordy"
+                        ],
+                        "color": "#455a64"
+                    },
+                    {
+                        "title": "Unwind",
+                        "subtitle": "Relaxing experiences",
+                        "apps": [
+                            "hearmience",
+                            "wellbeing",
+                            "music"
+                        ],
+                        "color": "#00695c"
+                    }
+                ]
+            }
+        }
+    ]
+}
